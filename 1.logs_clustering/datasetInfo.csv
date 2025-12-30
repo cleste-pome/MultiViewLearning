@@ -1,0 +1,7 @@
+Dataname,number of data,views,clusters,each view
+Digits-2V,2000,2,10,"[240, 76]"
+MSRCV1,210,6,7,"[1302, 48, 512, 100, 256, 210]"
+Out-Scene,2688,4,8,"[512, 432, 256, 48]"
+RGB-D,1449,2,13,"[2048, 300]"
+Synthetic3d,600,3,3,"[3, 3, 3]"
+Wikipedia,693,2,10,"[128, 10]"
